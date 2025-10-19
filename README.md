@@ -1,4 +1,4 @@
-# Title of the project  
+# People Counter  
 
 # Authors  
 - Kamil Adach  
